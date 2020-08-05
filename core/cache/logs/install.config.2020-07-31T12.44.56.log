@@ -1,0 +1,1 @@
+[2020-07-31 12:44:58] (ERROR in xPDOConnection::connect @ D:\os\OpenServer\domains\test.local\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)

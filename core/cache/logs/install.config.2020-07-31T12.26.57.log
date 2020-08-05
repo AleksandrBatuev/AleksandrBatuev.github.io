@@ -1,0 +1,1 @@
+[2020-07-31 12:27:00] (ERROR in xPDOConnection::connect @ D:\os\OpenServer\domains\test.local\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
